@@ -12,6 +12,8 @@ dist
 dist-ssr
 *.local
 .env
+.playwright-mcp/
+supabase/.temp/
 
 # Editor directories and files
 .vscode/*

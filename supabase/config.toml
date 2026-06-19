@@ -1,0 +1,10 @@
+project_id = "fhocdheiukrrsmtyapdn"
+
+[functions.submit-lead]
+verify_jwt = false
+
+[functions.public-settings]
+verify_jwt = false
+
+[functions.admin]
+verify_jwt = false
